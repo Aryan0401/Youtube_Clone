@@ -1,0 +1,30 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.video-thumbnail{
+    width: 300px;
+}
+.div1{
+    width: 300px;
+}
+.video-title{
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    width: 100%;
+    line-height: 20px;
+    margin-bottom: 0;
+    
+}
+.video-author{
+    margin-bottom: 0px;
+    margin-top: 12px;
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+}
+.video-stats{
+    margin-bottom: 0px;
+    margin-top: 3px;
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+}
